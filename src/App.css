@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.beauty
+{
+ width: 22%;
+ border: 1px solid #ededed;
+ margin: 5px;
+}
