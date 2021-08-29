@@ -1,8 +1,5 @@
 .App {
   text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 }
 
 .beauty
@@ -10,4 +7,16 @@
  width: 22%;
  border: 1px solid #ededed;
  margin: 5px;
+}
+.search
+{
+  margin: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.product
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
