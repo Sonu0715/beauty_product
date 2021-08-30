@@ -20,3 +20,34 @@
   flex-wrap: wrap;
   justify-content: center;
 }
+.product_image
+{
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  height: 60vh;
+  align-items: center;
+}
+.product_details
+{
+  text-align: left;
+  width: 50%;
+  margin-top: 40px;
+}
+.product_details h3
+{
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.product_details p span{
+  font-weight: bold;
+
+}
+.product_color
+{
+  margin: 30px 5px;
+}
+.btn button
+{
+margin: 10px;
+}
